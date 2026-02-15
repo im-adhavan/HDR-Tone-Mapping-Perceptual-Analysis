@@ -1,0 +1,32 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:          contrast_loss   R-squared:                       0.412
+Model:                            OLS   Adj. R-squared:                  0.405
+Method:                 Least Squares   F-statistic:                     60.38
+Date:                Sun, 15 Feb 2026   Prob (F-statistic):           1.31e-56
+Time:                        13:55:25   Log-Likelihood:                 336.42
+No. Observations:                 525   AIC:                            -658.8
+Df Residuals:                     518   BIC:                            -629.0
+Df Model:                           6                                         
+Covariance Type:            nonrobust                                         
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+const               0.2040      0.065      3.148      0.002       0.077       0.331
+DR                 -0.1409      0.036     -3.876      0.000      -0.212      -0.069
+log_std             0.8680      0.081     10.767      0.000       0.710       1.026
+highlight_ratio    -0.1428      0.134     -1.063      0.288      -0.407       0.121
+shadow_ratio      -23.9929     23.914     -1.003      0.316     -70.973      22.987
+skew                0.0152      0.007      2.208      0.028       0.002       0.029
+kurtosis           -0.0005      0.000     -3.052      0.002      -0.001      -0.000
+==============================================================================
+Omnibus:                        3.907   Durbin-Watson:                   1.398
+Prob(Omnibus):                  0.142   Jarque-Bera (JB):                3.846
+Skew:                          -0.210   Prob(JB):                        0.146
+Kurtosis:                       3.007   Cond. No.                     6.57e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 6.57e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.

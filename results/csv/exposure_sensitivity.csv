@@ -1,0 +1,526 @@
+scene,operator,exposure_sensitivity_index
+C:\hdr_perceptual\data\hdr_exr\507.exr,reinhard,0.24146217107772827
+C:\hdr_perceptual\data\hdr_exr\507.exr,drago,0.49786627292633057
+C:\hdr_perceptual\data\hdr_exr\507.exr,filmic,0.5408217906951904
+C:\hdr_perceptual\data\hdr_exr\507.exr,gamma,1.7800018787384033
+C:\hdr_perceptual\data\hdr_exr\507.exr,reinhard_local,0.2121029645204544
+C:\hdr_perceptual\data\hdr_exr\Ahwahnee Great Lounge.exr,reinhard,1.065731406211853
+C:\hdr_perceptual\data\hdr_exr\Ahwahnee Great Lounge.exr,drago,0.9903020858764648
+C:\hdr_perceptual\data\hdr_exr\Ahwahnee Great Lounge.exr,filmic,1.3066884279251099
+C:\hdr_perceptual\data\hdr_exr\Ahwahnee Great Lounge.exr,gamma,0.5041648745536804
+C:\hdr_perceptual\data\hdr_exr\Ahwahnee Great Lounge.exr,reinhard_local,1.0671135187149048
+C:\hdr_perceptual\data\hdr_exr\Air Bellows Gap.exr,reinhard,0.4617203176021576
+C:\hdr_perceptual\data\hdr_exr\Air Bellows Gap.exr,drago,0.48218148946762085
+C:\hdr_perceptual\data\hdr_exr\Air Bellows Gap.exr,filmic,0.3675687313079834
+C:\hdr_perceptual\data\hdr_exr\Air Bellows Gap.exr,gamma,0.5854105353355408
+C:\hdr_perceptual\data\hdr_exr\Air Bellows Gap.exr,reinhard_local,0.4946901798248291
+C:\hdr_perceptual\data\hdr_exr\Amikeus Beaver Dam (PM1).exr,reinhard,0.7135740518569946
+C:\hdr_perceptual\data\hdr_exr\Amikeus Beaver Dam (PM1).exr,drago,0.769989550113678
+C:\hdr_perceptual\data\hdr_exr\Amikeus Beaver Dam (PM1).exr,filmic,1.1045079231262207
+C:\hdr_perceptual\data\hdr_exr\Amikeus Beaver Dam (PM1).exr,gamma,0.774059534072876
+C:\hdr_perceptual\data\hdr_exr\Amikeus Beaver Dam (PM1).exr,reinhard_local,0.7358784079551697
+C:\hdr_perceptual\data\hdr_exr\Amikeus Beaver Dam (PM2).exr,reinhard,0.9012711644172668
+C:\hdr_perceptual\data\hdr_exr\Amikeus Beaver Dam (PM2).exr,drago,0.7854438424110413
+C:\hdr_perceptual\data\hdr_exr\Amikeus Beaver Dam (PM2).exr,filmic,1.2095028162002563
+C:\hdr_perceptual\data\hdr_exr\Amikeus Beaver Dam (PM2).exr,gamma,0.3951817452907562
+C:\hdr_perceptual\data\hdr_exr\Amikeus Beaver Dam (PM2).exr,reinhard_local,0.901547908782959
+C:\hdr_perceptual\data\hdr_exr\Artist Palette.exr,reinhard,0.5959336757659912
+C:\hdr_perceptual\data\hdr_exr\Artist Palette.exr,drago,0.28175053000450134
+C:\hdr_perceptual\data\hdr_exr\Artist Palette.exr,filmic,0.5292449593544006
+C:\hdr_perceptual\data\hdr_exr\Artist Palette.exr,gamma,0.8656819462776184
+C:\hdr_perceptual\data\hdr_exr\Artist Palette.exr,reinhard_local,0.24055981636047363
+C:\hdr_perceptual\data\hdr_exr\Balanced Rock.exr,reinhard,0.1740180253982544
+C:\hdr_perceptual\data\hdr_exr\Balanced Rock.exr,drago,0.19239550828933716
+C:\hdr_perceptual\data\hdr_exr\Balanced Rock.exr,filmic,0.4115428328514099
+C:\hdr_perceptual\data\hdr_exr\Balanced Rock.exr,gamma,1.6653106212615967
+C:\hdr_perceptual\data\hdr_exr\Balanced Rock.exr,reinhard_local,0.09389063715934753
+C:\hdr_perceptual\data\hdr_exr\Bandon Sunset (1).exr,reinhard,0.10739682614803314
+C:\hdr_perceptual\data\hdr_exr\Bandon Sunset (1).exr,drago,0.4180433750152588
+C:\hdr_perceptual\data\hdr_exr\Bandon Sunset (1).exr,filmic,0.3512217700481415
+C:\hdr_perceptual\data\hdr_exr\Bandon Sunset (1).exr,gamma,1.298397421836853
+C:\hdr_perceptual\data\hdr_exr\Bandon Sunset (1).exr,reinhard_local,0.13568904995918274
+C:\hdr_perceptual\data\hdr_exr\Bandon Sunset (2).exr,reinhard,0.24812449514865875
+C:\hdr_perceptual\data\hdr_exr\Bandon Sunset (2).exr,drago,0.5149296522140503
+C:\hdr_perceptual\data\hdr_exr\Bandon Sunset (2).exr,filmic,0.585502564907074
+C:\hdr_perceptual\data\hdr_exr\Bandon Sunset (2).exr,gamma,0.8871549367904663
+C:\hdr_perceptual\data\hdr_exr\Bandon Sunset (2).exr,reinhard_local,0.2828885316848755
+C:\hdr_perceptual\data\hdr_exr\Bar Harbor Presunrise.exr,reinhard,0.281298965215683
+C:\hdr_perceptual\data\hdr_exr\Bar Harbor Presunrise.exr,drago,0.5465015172958374
+C:\hdr_perceptual\data\hdr_exr\Bar Harbor Presunrise.exr,filmic,0.681422233581543
+C:\hdr_perceptual\data\hdr_exr\Bar Harbor Presunrise.exr,gamma,0.8256152868270874
+C:\hdr_perceptual\data\hdr_exr\Bar Harbor Presunrise.exr,reinhard_local,0.33316129446029663
+C:\hdr_perceptual\data\hdr_exr\Bar Harbor Sunrise.exr,reinhard,0.18662385642528534
+C:\hdr_perceptual\data\hdr_exr\Bar Harbor Sunrise.exr,drago,0.24419598281383514
+C:\hdr_perceptual\data\hdr_exr\Bar Harbor Sunrise.exr,filmic,0.3518638014793396
+C:\hdr_perceptual\data\hdr_exr\Bar Harbor Sunrise.exr,gamma,1.4935489892959595
+C:\hdr_perceptual\data\hdr_exr\Bar Harbor Sunrise.exr,reinhard_local,0.147917702794075
+C:\hdr_perceptual\data\hdr_exr\Ben&Jerry's.exr,reinhard,0.6380349397659302
+C:\hdr_perceptual\data\hdr_exr\Ben&Jerry's.exr,drago,0.07622867077589035
+C:\hdr_perceptual\data\hdr_exr\Ben&Jerry's.exr,filmic,0.6119983196258545
+C:\hdr_perceptual\data\hdr_exr\Ben&Jerry's.exr,gamma,1.0753509998321533
+C:\hdr_perceptual\data\hdr_exr\Ben&Jerry's.exr,reinhard_local,0.430569052696228
+C:\hdr_perceptual\data\hdr_exr\Bigfoot Pass.exr,reinhard,0.4068979322910309
+C:\hdr_perceptual\data\hdr_exr\Bigfoot Pass.exr,drago,0.1717252880334854
+C:\hdr_perceptual\data\hdr_exr\Bigfoot Pass.exr,filmic,0.8351526856422424
+C:\hdr_perceptual\data\hdr_exr\Bigfoot Pass.exr,gamma,0.35141295194625854
+C:\hdr_perceptual\data\hdr_exr\Bigfoot Pass.exr,reinhard_local,0.20637722313404083
+C:\hdr_perceptual\data\hdr_exr\Blooming Gorse (1).exr,reinhard,0.3522475063800812
+C:\hdr_perceptual\data\hdr_exr\Blooming Gorse (1).exr,drago,0.0848236083984375
+C:\hdr_perceptual\data\hdr_exr\Blooming Gorse (1).exr,filmic,0.496014803647995
+C:\hdr_perceptual\data\hdr_exr\Blooming Gorse (1).exr,gamma,1.2997043132781982
+C:\hdr_perceptual\data\hdr_exr\Blooming Gorse (1).exr,reinhard_local,0.2941513657569885
+C:\hdr_perceptual\data\hdr_exr\Blooming Gorse (2).exr,reinhard,0.37454164028167725
+C:\hdr_perceptual\data\hdr_exr\Blooming Gorse (2).exr,drago,0.16949903964996338
+C:\hdr_perceptual\data\hdr_exr\Blooming Gorse (2).exr,filmic,0.22618550062179565
+C:\hdr_perceptual\data\hdr_exr\Blooming Gorse (2).exr,gamma,1.7433871030807495
+C:\hdr_perceptual\data\hdr_exr\Blooming Gorse (2).exr,reinhard_local,0.23533232510089874
+C:\hdr_perceptual\data\hdr_exr\Cades Cove.exr,reinhard,0.6624155640602112
+C:\hdr_perceptual\data\hdr_exr\Cades Cove.exr,drago,0.12781958281993866
+C:\hdr_perceptual\data\hdr_exr\Cades Cove.exr,filmic,0.248529851436615
+C:\hdr_perceptual\data\hdr_exr\Cades Cove.exr,gamma,1.9320731163024902
+C:\hdr_perceptual\data\hdr_exr\Cades Cove.exr,reinhard_local,0.4583350419998169
+C:\hdr_perceptual\data\hdr_exr\Canadian Falls.exr,reinhard,0.4373455047607422
+C:\hdr_perceptual\data\hdr_exr\Canadian Falls.exr,drago,0.10129953175783157
+C:\hdr_perceptual\data\hdr_exr\Canadian Falls.exr,filmic,0.8656794428825378
+C:\hdr_perceptual\data\hdr_exr\Canadian Falls.exr,gamma,0.8291535377502441
+C:\hdr_perceptual\data\hdr_exr\Canadian Falls.exr,reinhard_local,0.2687253952026367
+C:\hdr_perceptual\data\hdr_exr\Cemetery Tree (1).exr,reinhard,0.30142587423324585
+C:\hdr_perceptual\data\hdr_exr\Cemetery Tree (1).exr,drago,0.32846301794052124
+C:\hdr_perceptual\data\hdr_exr\Cemetery Tree (1).exr,filmic,0.20949634909629822
+C:\hdr_perceptual\data\hdr_exr\Cemetery Tree (1).exr,gamma,1.979567289352417
+C:\hdr_perceptual\data\hdr_exr\Cemetery Tree (1).exr,reinhard_local,0.18672586977481842
+C:\hdr_perceptual\data\hdr_exr\Cemetery Tree (2).exr,reinhard,0.3118685185909271
+C:\hdr_perceptual\data\hdr_exr\Cemetery Tree (2).exr,drago,0.2786896228790283
+C:\hdr_perceptual\data\hdr_exr\Cemetery Tree (2).exr,filmic,0.25342532992362976
+C:\hdr_perceptual\data\hdr_exr\Cemetery Tree (2).exr,gamma,1.6512315273284912
+C:\hdr_perceptual\data\hdr_exr\Cemetery Tree (2).exr,reinhard_local,0.2000185251235962
+C:\hdr_perceptual\data\hdr_exr\Delicate Arch.exr,reinhard,0.15764577686786652
+C:\hdr_perceptual\data\hdr_exr\Delicate Arch.exr,drago,0.2048676460981369
+C:\hdr_perceptual\data\hdr_exr\Delicate Arch.exr,filmic,0.7263206839561462
+C:\hdr_perceptual\data\hdr_exr\Delicate Arch.exr,gamma,0.9535976052284241
+C:\hdr_perceptual\data\hdr_exr\Delicate Arch.exr,reinhard_local,0.10840848088264465
+C:\hdr_perceptual\data\hdr_exr\Delicate Flowers.exr,reinhard,0.4668648838996887
+C:\hdr_perceptual\data\hdr_exr\Delicate Flowers.exr,drago,0.17642100155353546
+C:\hdr_perceptual\data\hdr_exr\Delicate Flowers.exr,filmic,0.5842391848564148
+C:\hdr_perceptual\data\hdr_exr\Delicate Flowers.exr,gamma,1.1203447580337524
+C:\hdr_perceptual\data\hdr_exr\Delicate Flowers.exr,reinhard_local,0.21427734196186066
+C:\hdr_perceptual\data\hdr_exr\Devil's Bathtub.exr,reinhard,0.7027045488357544
+C:\hdr_perceptual\data\hdr_exr\Devil's Bathtub.exr,drago,0.1353941410779953
+C:\hdr_perceptual\data\hdr_exr\Devil's Bathtub.exr,filmic,0.42887020111083984
+C:\hdr_perceptual\data\hdr_exr\Devil's Bathtub.exr,gamma,0.5305572748184204
+C:\hdr_perceptual\data\hdr_exr\Devil's Bathtub.exr,reinhard_local,0.2797260582447052
+C:\hdr_perceptual\data\hdr_exr\Devil's Golf Course.exr,reinhard,0.32990723848342896
+C:\hdr_perceptual\data\hdr_exr\Devil's Golf Course.exr,drago,0.18580928444862366
+C:\hdr_perceptual\data\hdr_exr\Devil's Golf Course.exr,filmic,0.6548972725868225
+C:\hdr_perceptual\data\hdr_exr\Devil's Golf Course.exr,gamma,0.6985775232315063
+C:\hdr_perceptual\data\hdr_exr\Devil's Golf Course.exr,reinhard_local,0.1455320119857788
+C:\hdr_perceptual\data\hdr_exr\Devil's Tower.exr,reinhard,0.1891942024230957
+C:\hdr_perceptual\data\hdr_exr\Devil's Tower.exr,drago,0.36090973019599915
+C:\hdr_perceptual\data\hdr_exr\Devil's Tower.exr,filmic,0.2699972987174988
+C:\hdr_perceptual\data\hdr_exr\Devil's Tower.exr,gamma,1.9289066791534424
+C:\hdr_perceptual\data\hdr_exr\Devil's Tower.exr,reinhard_local,0.09008900821208954
+C:\hdr_perceptual\data\hdr_exr\El Capitan.exr,reinhard,0.5028538107872009
+C:\hdr_perceptual\data\hdr_exr\El Capitan.exr,drago,0.133441761136055
+C:\hdr_perceptual\data\hdr_exr\El Capitan.exr,filmic,0.26716330647468567
+C:\hdr_perceptual\data\hdr_exr\El Capitan.exr,gamma,2.2514898777008057
+C:\hdr_perceptual\data\hdr_exr\El Capitan.exr,reinhard_local,0.2812880873680115
+C:\hdr_perceptual\data\hdr_exr\Exploratorium (1).exr,reinhard,0.4735073149204254
+C:\hdr_perceptual\data\hdr_exr\Exploratorium (1).exr,drago,0.0656091645359993
+C:\hdr_perceptual\data\hdr_exr\Exploratorium (1).exr,filmic,0.2806839346885681
+C:\hdr_perceptual\data\hdr_exr\Exploratorium (1).exr,gamma,1.9140435457229614
+C:\hdr_perceptual\data\hdr_exr\Exploratorium (1).exr,reinhard_local,0.3578547537326813
+C:\hdr_perceptual\data\hdr_exr\Exploratorium (2).exr,reinhard,0.22299912571907043
+C:\hdr_perceptual\data\hdr_exr\Exploratorium (2).exr,drago,0.26637783646583557
+C:\hdr_perceptual\data\hdr_exr\Exploratorium (2).exr,filmic,0.3376905024051666
+C:\hdr_perceptual\data\hdr_exr\Exploratorium (2).exr,gamma,1.7666786909103394
+C:\hdr_perceptual\data\hdr_exr\Exploratorium (2).exr,reinhard_local,0.1576709747314453
+C:\hdr_perceptual\data\hdr_exr\Flamingo.exr,reinhard,0.8612537384033203
+C:\hdr_perceptual\data\hdr_exr\Flamingo.exr,drago,0.9153264760971069
+C:\hdr_perceptual\data\hdr_exr\Flamingo.exr,filmic,1.166624903678894
+C:\hdr_perceptual\data\hdr_exr\Flamingo.exr,gamma,0.24798540771007538
+C:\hdr_perceptual\data\hdr_exr\Flamingo.exr,reinhard_local,0.874247133731842
+C:\hdr_perceptual\data\hdr_exr\Four Corners Storm.exr,reinhard,0.49594244360923767
+C:\hdr_perceptual\data\hdr_exr\Four Corners Storm.exr,drago,0.09347889572381973
+C:\hdr_perceptual\data\hdr_exr\Four Corners Storm.exr,filmic,0.7866725921630859
+C:\hdr_perceptual\data\hdr_exr\Four Corners Storm.exr,gamma,0.3945159614086151
+C:\hdr_perceptual\data\hdr_exr\Four Corners Storm.exr,reinhard_local,0.36012428998947144
+C:\hdr_perceptual\data\hdr_exr\Frontier.exr,reinhard,0.8901339173316956
+C:\hdr_perceptual\data\hdr_exr\Frontier.exr,drago,0.9698744416236877
+C:\hdr_perceptual\data\hdr_exr\Frontier.exr,filmic,1.241733193397522
+C:\hdr_perceptual\data\hdr_exr\Frontier.exr,gamma,0.3273237347602844
+C:\hdr_perceptual\data\hdr_exr\Frontier.exr,reinhard_local,0.8837655782699585
+C:\hdr_perceptual\data\hdr_exr\General Grant.exr,reinhard,0.5193654894828796
+C:\hdr_perceptual\data\hdr_exr\General Grant.exr,drago,0.6446757316589355
+C:\hdr_perceptual\data\hdr_exr\General Grant.exr,filmic,0.9379165768623352
+C:\hdr_perceptual\data\hdr_exr\General Grant.exr,gamma,1.070038914680481
+C:\hdr_perceptual\data\hdr_exr\General Grant.exr,reinhard_local,0.5580312013626099
+C:\hdr_perceptual\data\hdr_exr\General Sherman.exr,reinhard,0.40910032391548157
+C:\hdr_perceptual\data\hdr_exr\General Sherman.exr,drago,0.24913297593593597
+C:\hdr_perceptual\data\hdr_exr\General Sherman.exr,filmic,0.24304765462875366
+C:\hdr_perceptual\data\hdr_exr\General Sherman.exr,gamma,2.031080484390259
+C:\hdr_perceptual\data\hdr_exr\General Sherman.exr,reinhard_local,0.20888946950435638
+C:\hdr_perceptual\data\hdr_exr\Golden Gate (1).exr,reinhard,0.6806027889251709
+C:\hdr_perceptual\data\hdr_exr\Golden Gate (1).exr,drago,0.04008062928915024
+C:\hdr_perceptual\data\hdr_exr\Golden Gate (1).exr,filmic,0.5030891299247742
+C:\hdr_perceptual\data\hdr_exr\Golden Gate (1).exr,gamma,1.3543953895568848
+C:\hdr_perceptual\data\hdr_exr\Golden Gate (1).exr,reinhard_local,0.5136330127716064
+C:\hdr_perceptual\data\hdr_exr\Golden Gate (2).exr,reinhard,1.3830760717391968
+C:\hdr_perceptual\data\hdr_exr\Golden Gate (2).exr,drago,0.3824249505996704
+C:\hdr_perceptual\data\hdr_exr\Golden Gate (2).exr,filmic,1.356007695198059
+C:\hdr_perceptual\data\hdr_exr\Golden Gate (2).exr,gamma,0.7137348651885986
+C:\hdr_perceptual\data\hdr_exr\Golden Gate (2).exr,reinhard_local,1.3835622072219849
+C:\hdr_perceptual\data\hdr_exr\HDR Mark.exr,reinhard,1.1304211616516113
+C:\hdr_perceptual\data\hdr_exr\HDR Mark.exr,drago,0.8199142813682556
+C:\hdr_perceptual\data\hdr_exr\HDR Mark.exr,filmic,1.2421683073043823
+C:\hdr_perceptual\data\hdr_exr\HDR Mark.exr,gamma,0.33007991313934326
+C:\hdr_perceptual\data\hdr_exr\HDR Mark.exr,reinhard_local,1.1324098110198975
+C:\hdr_perceptual\data\hdr_exr\Half Dome Sunset.exr,reinhard,0.655194878578186
+C:\hdr_perceptual\data\hdr_exr\Half Dome Sunset.exr,drago,0.6882373690605164
+C:\hdr_perceptual\data\hdr_exr\Half Dome Sunset.exr,filmic,1.052671194076538
+C:\hdr_perceptual\data\hdr_exr\Half Dome Sunset.exr,gamma,0.9476180672645569
+C:\hdr_perceptual\data\hdr_exr\Half Dome Sunset.exr,reinhard_local,0.6666380167007446
+C:\hdr_perceptual\data\hdr_exr\Hall of Fame.exr,reinhard,0.3237796723842621
+C:\hdr_perceptual\data\hdr_exr\Hall of Fame.exr,drago,0.08237345516681671
+C:\hdr_perceptual\data\hdr_exr\Hall of Fame.exr,filmic,0.5796954035758972
+C:\hdr_perceptual\data\hdr_exr\Hall of Fame.exr,gamma,1.5568958520889282
+C:\hdr_perceptual\data\hdr_exr\Hall of Fame.exr,reinhard_local,0.2712700068950653
+C:\hdr_perceptual\data\hdr_exr\Hancock Kitchen Inside.exr,reinhard,1.1094253063201904
+C:\hdr_perceptual\data\hdr_exr\Hancock Kitchen Inside.exr,drago,0.8705253601074219
+C:\hdr_perceptual\data\hdr_exr\Hancock Kitchen Inside.exr,filmic,1.3035523891448975
+C:\hdr_perceptual\data\hdr_exr\Hancock Kitchen Inside.exr,gamma,0.4138616919517517
+C:\hdr_perceptual\data\hdr_exr\Hancock Kitchen Inside.exr,reinhard_local,1.1045175790786743
+C:\hdr_perceptual\data\hdr_exr\Hancock Kitchen Outside.exr,reinhard,0.42677873373031616
+C:\hdr_perceptual\data\hdr_exr\Hancock Kitchen Outside.exr,drago,0.24643416702747345
+C:\hdr_perceptual\data\hdr_exr\Hancock Kitchen Outside.exr,filmic,0.23502957820892334
+C:\hdr_perceptual\data\hdr_exr\Hancock Kitchen Outside.exr,gamma,1.439709186553955
+C:\hdr_perceptual\data\hdr_exr\Hancock Kitchen Outside.exr,reinhard_local,0.16666947305202484
+C:\hdr_perceptual\data\hdr_exr\Hancock Seed Field.exr,reinhard,0.6151121258735657
+C:\hdr_perceptual\data\hdr_exr\Hancock Seed Field.exr,drago,0.1780328005552292
+C:\hdr_perceptual\data\hdr_exr\Hancock Seed Field.exr,filmic,0.9261882901191711
+C:\hdr_perceptual\data\hdr_exr\Hancock Seed Field.exr,gamma,0.6188549399375916
+C:\hdr_perceptual\data\hdr_exr\Hancock Seed Field.exr,reinhard_local,0.362038254737854
+C:\hdr_perceptual\data\hdr_exr\Hoover Dam.exr,reinhard,0.480211079120636
+C:\hdr_perceptual\data\hdr_exr\Hoover Dam.exr,drago,0.09655818343162537
+C:\hdr_perceptual\data\hdr_exr\Hoover Dam.exr,filmic,0.28868797421455383
+C:\hdr_perceptual\data\hdr_exr\Hoover Dam.exr,gamma,1.6865496635437012
+C:\hdr_perceptual\data\hdr_exr\Hoover Dam.exr,reinhard_local,0.33209505677223206
+C:\hdr_perceptual\data\hdr_exr\Hoover Garage.exr,reinhard,1.0472779273986816
+C:\hdr_perceptual\data\hdr_exr\Hoover Garage.exr,drago,0.8859923481941223
+C:\hdr_perceptual\data\hdr_exr\Hoover Garage.exr,filmic,1.256690263748169
+C:\hdr_perceptual\data\hdr_exr\Hoover Garage.exr,gamma,0.3112904131412506
+C:\hdr_perceptual\data\hdr_exr\Hoover Garage.exr,reinhard_local,1.0489766597747803
+C:\hdr_perceptual\data\hdr_exr\Jesse Brown's Cabin.exr,reinhard,0.3610231578350067
+C:\hdr_perceptual\data\hdr_exr\Jesse Brown's Cabin.exr,drago,0.4159030616283417
+C:\hdr_perceptual\data\hdr_exr\Jesse Brown's Cabin.exr,filmic,0.3017619252204895
+C:\hdr_perceptual\data\hdr_exr\Jesse Brown's Cabin.exr,gamma,2.2291946411132812
+C:\hdr_perceptual\data\hdr_exr\Jesse Brown's Cabin.exr,reinhard_local,0.1711084544658661
+C:\hdr_perceptual\data\hdr_exr\Kings Canyon.exr,reinhard,0.3545687794685364
+C:\hdr_perceptual\data\hdr_exr\Kings Canyon.exr,drago,0.2283211201429367
+C:\hdr_perceptual\data\hdr_exr\Kings Canyon.exr,filmic,0.3651182949542999
+C:\hdr_perceptual\data\hdr_exr\Kings Canyon.exr,gamma,2.258563995361328
+C:\hdr_perceptual\data\hdr_exr\Kings Canyon.exr,reinhard_local,0.26533937454223633
+C:\hdr_perceptual\data\hdr_exr\Lab Booth.exr,reinhard,0.19726046919822693
+C:\hdr_perceptual\data\hdr_exr\Lab Booth.exr,drago,0.4519828259944916
+C:\hdr_perceptual\data\hdr_exr\Lab Booth.exr,filmic,0.4908893406391144
+C:\hdr_perceptual\data\hdr_exr\Lab Booth.exr,gamma,1.4821828603744507
+C:\hdr_perceptual\data\hdr_exr\Lab Booth.exr,reinhard_local,0.15902477502822876
+C:\hdr_perceptual\data\hdr_exr\Lab Typwriter.exr,reinhard,1.2910172939300537
+C:\hdr_perceptual\data\hdr_exr\Lab Typwriter.exr,drago,0.9216600656509399
+C:\hdr_perceptual\data\hdr_exr\Lab Typwriter.exr,filmic,1.3084455728530884
+C:\hdr_perceptual\data\hdr_exr\Lab Typwriter.exr,gamma,0.5419442057609558
+C:\hdr_perceptual\data\hdr_exr\Lab Typwriter.exr,reinhard_local,1.3043984174728394
+C:\hdr_perceptual\data\hdr_exr\Lab Window.exr,reinhard,0.30659282207489014
+C:\hdr_perceptual\data\hdr_exr\Lab Window.exr,drago,0.3721596896648407
+C:\hdr_perceptual\data\hdr_exr\Lab Window.exr,filmic,0.20589278638362885
+C:\hdr_perceptual\data\hdr_exr\Lab Window.exr,gamma,1.6362334489822388
+C:\hdr_perceptual\data\hdr_exr\Lab Window.exr,reinhard_local,0.2659495770931244
+C:\hdr_perceptual\data\hdr_exr\Lady Bird Redwoods.exr,reinhard,0.6492230892181396
+C:\hdr_perceptual\data\hdr_exr\Lady Bird Redwoods.exr,drago,0.7767826914787292
+C:\hdr_perceptual\data\hdr_exr\Lady Bird Redwoods.exr,filmic,1.0887843370437622
+C:\hdr_perceptual\data\hdr_exr\Lady Bird Redwoods.exr,gamma,0.6887109875679016
+C:\hdr_perceptual\data\hdr_exr\Lady Bird Redwoods.exr,reinhard_local,0.6396377682685852
+C:\hdr_perceptual\data\hdr_exr\Las Vegas Store.exr,reinhard,0.8876197338104248
+C:\hdr_perceptual\data\hdr_exr\Las Vegas Store.exr,drago,0.9526365995407104
+C:\hdr_perceptual\data\hdr_exr\Las Vegas Store.exr,filmic,1.2181612253189087
+C:\hdr_perceptual\data\hdr_exr\Las Vegas Store.exr,gamma,0.310356080532074
+C:\hdr_perceptual\data\hdr_exr\Las Vegas Store.exr,reinhard_local,0.8982049226760864
+C:\hdr_perceptual\data\hdr_exr\Letchworth Tea Table (1).exr,reinhard,0.7085765600204468
+C:\hdr_perceptual\data\hdr_exr\Letchworth Tea Table (1).exr,drago,0.0980970710515976
+C:\hdr_perceptual\data\hdr_exr\Letchworth Tea Table (1).exr,filmic,0.516319215297699
+C:\hdr_perceptual\data\hdr_exr\Letchworth Tea Table (1).exr,gamma,1.440686821937561
+C:\hdr_perceptual\data\hdr_exr\Letchworth Tea Table (1).exr,reinhard_local,0.6426655054092407
+C:\hdr_perceptual\data\hdr_exr\Letchworth Tea Table (2).exr,reinhard,0.4415969252586365
+C:\hdr_perceptual\data\hdr_exr\Letchworth Tea Table (2).exr,drago,0.5391964316368103
+C:\hdr_perceptual\data\hdr_exr\Letchworth Tea Table (2).exr,filmic,0.49960610270500183
+C:\hdr_perceptual\data\hdr_exr\Letchworth Tea Table (2).exr,gamma,0.8944966793060303
+C:\hdr_perceptual\data\hdr_exr\Letchworth Tea Table (2).exr,reinhard_local,0.500330924987793
+C:\hdr_perceptual\data\hdr_exr\Little River.exr,reinhard,0.2642902135848999
+C:\hdr_perceptual\data\hdr_exr\Little River.exr,drago,0.5037409067153931
+C:\hdr_perceptual\data\hdr_exr\Little River.exr,filmic,0.7354448437690735
+C:\hdr_perceptual\data\hdr_exr\Little River.exr,gamma,2.0126566886901855
+C:\hdr_perceptual\data\hdr_exr\Little River.exr,reinhard_local,0.2638353705406189
+C:\hdr_perceptual\data\hdr_exr\Luxo Double Checker.exr,reinhard,1.2391746044158936
+C:\hdr_perceptual\data\hdr_exr\Luxo Double Checker.exr,drago,1.1109753847122192
+C:\hdr_perceptual\data\hdr_exr\Luxo Double Checker.exr,filmic,1.3527470827102661
+C:\hdr_perceptual\data\hdr_exr\Luxo Double Checker.exr,gamma,0.47066769003868103
+C:\hdr_perceptual\data\hdr_exr\Luxo Double Checker.exr,reinhard_local,1.2482428550720215
+C:\hdr_perceptual\data\hdr_exr\M3 Middle Pond.exr,reinhard,0.4041792154312134
+C:\hdr_perceptual\data\hdr_exr\M3 Middle Pond.exr,drago,0.16212959587574005
+C:\hdr_perceptual\data\hdr_exr\M3 Middle Pond.exr,filmic,0.40166035294532776
+C:\hdr_perceptual\data\hdr_exr\M3 Middle Pond.exr,gamma,1.4660922288894653
+C:\hdr_perceptual\data\hdr_exr\M3 Middle Pond.exr,reinhard_local,0.2684445083141327
+C:\hdr_perceptual\data\hdr_exr\Mackinac Bridge.exr,reinhard,0.6056250333786011
+C:\hdr_perceptual\data\hdr_exr\Mackinac Bridge.exr,drago,0.1452069878578186
+C:\hdr_perceptual\data\hdr_exr\Mackinac Bridge.exr,filmic,0.4114990532398224
+C:\hdr_perceptual\data\hdr_exr\Mackinac Bridge.exr,gamma,1.1792105436325073
+C:\hdr_perceptual\data\hdr_exr\Mackinac Bridge.exr,reinhard_local,0.24856938421726227
+C:\hdr_perceptual\data\hdr_exr\Mammoth Hot Springs.exr,reinhard,0.661545991897583
+C:\hdr_perceptual\data\hdr_exr\Mammoth Hot Springs.exr,drago,0.1819281429052353
+C:\hdr_perceptual\data\hdr_exr\Mammoth Hot Springs.exr,filmic,0.3672304153442383
+C:\hdr_perceptual\data\hdr_exr\Mammoth Hot Springs.exr,gamma,1.7527793645858765
+C:\hdr_perceptual\data\hdr_exr\Mammoth Hot Springs.exr,reinhard_local,0.29961860179901123
+C:\hdr_perceptual\data\hdr_exr\Mason Lake (1).exr,reinhard,0.4033186435699463
+C:\hdr_perceptual\data\hdr_exr\Mason Lake (1).exr,drago,0.0949176549911499
+C:\hdr_perceptual\data\hdr_exr\Mason Lake (1).exr,filmic,0.8845985531806946
+C:\hdr_perceptual\data\hdr_exr\Mason Lake (1).exr,gamma,0.7786593437194824
+C:\hdr_perceptual\data\hdr_exr\Mason Lake (1).exr,reinhard_local,0.3385925889015198
+C:\hdr_perceptual\data\hdr_exr\Mason Lake (2).exr,reinhard,0.5559738278388977
+C:\hdr_perceptual\data\hdr_exr\Mason Lake (2).exr,drago,0.11425220221281052
+C:\hdr_perceptual\data\hdr_exr\Mason Lake (2).exr,filmic,0.6189990639686584
+C:\hdr_perceptual\data\hdr_exr\Mason Lake (2).exr,gamma,1.190533995628357
+C:\hdr_perceptual\data\hdr_exr\Mason Lake (2).exr,reinhard_local,0.2912783920764923
+C:\hdr_perceptual\data\hdr_exr\McKee's Pub.exr,reinhard,1.3801733255386353
+C:\hdr_perceptual\data\hdr_exr\McKee's Pub.exr,drago,0.5435360670089722
+C:\hdr_perceptual\data\hdr_exr\McKee's Pub.exr,filmic,1.1394624710083008
+C:\hdr_perceptual\data\hdr_exr\McKee's Pub.exr,gamma,0.7120817303657532
+C:\hdr_perceptual\data\hdr_exr\McKee's Pub.exr,reinhard_local,1.3816393613815308
+C:\hdr_perceptual\data\hdr_exr\Middle Pond.exr,reinhard,0.540579617023468
+C:\hdr_perceptual\data\hdr_exr\Middle Pond.exr,drago,0.10571816563606262
+C:\hdr_perceptual\data\hdr_exr\Middle Pond.exr,filmic,0.4293186068534851
+C:\hdr_perceptual\data\hdr_exr\Middle Pond.exr,gamma,1.6071006059646606
+C:\hdr_perceptual\data\hdr_exr\Middle Pond.exr,reinhard_local,0.32654306292533875
+C:\hdr_perceptual\data\hdr_exr\Mirror Lake.exr,reinhard,0.5547481179237366
+C:\hdr_perceptual\data\hdr_exr\Mirror Lake.exr,drago,0.16537758708000183
+C:\hdr_perceptual\data\hdr_exr\Mirror Lake.exr,filmic,0.28274670243263245
+C:\hdr_perceptual\data\hdr_exr\Mirror Lake.exr,gamma,2.290337085723877
+C:\hdr_perceptual\data\hdr_exr\Mirror Lake.exr,reinhard_local,0.3283931314945221
+C:\hdr_perceptual\data\hdr_exr\Mt. Rushmore (1).exr,reinhard,0.46648478507995605
+C:\hdr_perceptual\data\hdr_exr\Mt. Rushmore (1).exr,drago,0.6865332722663879
+C:\hdr_perceptual\data\hdr_exr\Mt. Rushmore (1).exr,filmic,0.9218596816062927
+C:\hdr_perceptual\data\hdr_exr\Mt. Rushmore (1).exr,gamma,0.6022641658782959
+C:\hdr_perceptual\data\hdr_exr\Mt. Rushmore (1).exr,reinhard_local,0.5003801584243774
+C:\hdr_perceptual\data\hdr_exr\Mt. Rushmore (2).exr,reinhard,0.2170892357826233
+C:\hdr_perceptual\data\hdr_exr\Mt. Rushmore (2).exr,drago,0.5183455348014832
+C:\hdr_perceptual\data\hdr_exr\Mt. Rushmore (2).exr,filmic,0.5541924834251404
+C:\hdr_perceptual\data\hdr_exr\Mt. Rushmore (2).exr,gamma,0.6548710465431213
+C:\hdr_perceptual\data\hdr_exr\Mt. Rushmore (2).exr,reinhard_local,0.23199978470802307
+C:\hdr_perceptual\data\hdr_exr\Mt. Rushmore Flags.exr,reinhard,1.279133915901184
+C:\hdr_perceptual\data\hdr_exr\Mt. Rushmore Flags.exr,drago,0.8043698668479919
+C:\hdr_perceptual\data\hdr_exr\Mt. Rushmore Flags.exr,filmic,1.4021564722061157
+C:\hdr_perceptual\data\hdr_exr\Mt. Rushmore Flags.exr,gamma,0.39131033420562744
+C:\hdr_perceptual\data\hdr_exr\Mt. Rushmore Flags.exr,reinhard_local,1.2854818105697632
+C:\hdr_perceptual\data\hdr_exr\Niagara Falls.exr,reinhard,0.6594117283821106
+C:\hdr_perceptual\data\hdr_exr\Niagara Falls.exr,drago,0.172064408659935
+C:\hdr_perceptual\data\hdr_exr\Niagara Falls.exr,filmic,0.8273032903671265
+C:\hdr_perceptual\data\hdr_exr\Niagara Falls.exr,gamma,0.6027329564094543
+C:\hdr_perceptual\data\hdr_exr\Niagara Falls.exr,reinhard_local,0.5354011058807373
+C:\hdr_perceptual\data\hdr_exr\North Bubble.exr,reinhard,0.2562132477760315
+C:\hdr_perceptual\data\hdr_exr\North Bubble.exr,drago,0.09047898650169373
+C:\hdr_perceptual\data\hdr_exr\North Bubble.exr,filmic,0.2147364467382431
+C:\hdr_perceptual\data\hdr_exr\North Bubble.exr,gamma,1.5736163854599
+C:\hdr_perceptual\data\hdr_exr\North Bubble.exr,reinhard_local,0.18182426691055298
+C:\hdr_perceptual\data\hdr_exr\O Canada! (Lights).exr,reinhard,0.30188679695129395
+C:\hdr_perceptual\data\hdr_exr\O Canada! (Lights).exr,drago,0.4612811803817749
+C:\hdr_perceptual\data\hdr_exr\O Canada! (Lights).exr,filmic,0.7786897420883179
+C:\hdr_perceptual\data\hdr_exr\O Canada! (Lights).exr,gamma,0.5112379789352417
+C:\hdr_perceptual\data\hdr_exr\O Canada! (Lights).exr,reinhard_local,0.36401501297950745
+C:\hdr_perceptual\data\hdr_exr\O Canada! (No Lights).exr,reinhard,0.13737346231937408
+C:\hdr_perceptual\data\hdr_exr\O Canada! (No Lights).exr,drago,0.3449523448944092
+C:\hdr_perceptual\data\hdr_exr\O Canada! (No Lights).exr,filmic,0.2793808579444885
+C:\hdr_perceptual\data\hdr_exr\O Canada! (No Lights).exr,gamma,0.8404490351676941
+C:\hdr_perceptual\data\hdr_exr\O Canada! (No Lights).exr,reinhard_local,0.1835903525352478
+C:\hdr_perceptual\data\hdr_exr\Old Faithful Inn.exr,reinhard,0.1992517113685608
+C:\hdr_perceptual\data\hdr_exr\Old Faithful Inn.exr,drago,0.4127964675426483
+C:\hdr_perceptual\data\hdr_exr\Old Faithful Inn.exr,filmic,0.379023015499115
+C:\hdr_perceptual\data\hdr_exr\Old Faithful Inn.exr,gamma,1.4704328775405884
+C:\hdr_perceptual\data\hdr_exr\Old Faithful Inn.exr,reinhard_local,0.16459472477436066
+C:\hdr_perceptual\data\hdr_exr\Otter Point.exr,reinhard,0.4381266236305237
+C:\hdr_perceptual\data\hdr_exr\Otter Point.exr,drago,0.0695495679974556
+C:\hdr_perceptual\data\hdr_exr\Otter Point.exr,filmic,0.984876811504364
+C:\hdr_perceptual\data\hdr_exr\Otter Point.exr,gamma,0.7124300003051758
+C:\hdr_perceptual\data\hdr_exr\Otter Point.exr,reinhard_local,0.27646929025650024
+C:\hdr_perceptual\data\hdr_exr\Paul Bunyan.exr,reinhard,0.39026275277137756
+C:\hdr_perceptual\data\hdr_exr\Paul Bunyan.exr,drago,0.058704882860183716
+C:\hdr_perceptual\data\hdr_exr\Paul Bunyan.exr,filmic,0.5077548027038574
+C:\hdr_perceptual\data\hdr_exr\Paul Bunyan.exr,gamma,1.2202484607696533
+C:\hdr_perceptual\data\hdr_exr\Paul Bunyan.exr,reinhard_local,0.25566136837005615
+C:\hdr_perceptual\data\hdr_exr\Peck Lake.exr,reinhard,0.6004775762557983
+C:\hdr_perceptual\data\hdr_exr\Peck Lake.exr,drago,0.14510472118854523
+C:\hdr_perceptual\data\hdr_exr\Peck Lake.exr,filmic,0.3335563540458679
+C:\hdr_perceptual\data\hdr_exr\Peck Lake.exr,gamma,1.4854432344436646
+C:\hdr_perceptual\data\hdr_exr\Peck Lake.exr,reinhard_local,0.4310033917427063
+C:\hdr_perceptual\data\hdr_exr\Peppermill.exr,reinhard,0.8198010921478271
+C:\hdr_perceptual\data\hdr_exr\Peppermill.exr,drago,0.9133621454238892
+C:\hdr_perceptual\data\hdr_exr\Peppermill.exr,filmic,1.192366600036621
+C:\hdr_perceptual\data\hdr_exr\Peppermill.exr,gamma,0.39708930253982544
+C:\hdr_perceptual\data\hdr_exr\Peppermill.exr,reinhard_local,0.8372569680213928
+C:\hdr_perceptual\data\hdr_exr\Petroglyphs.exr,reinhard,0.47487160563468933
+C:\hdr_perceptual\data\hdr_exr\Petroglyphs.exr,drago,0.16187354922294617
+C:\hdr_perceptual\data\hdr_exr\Petroglyphs.exr,filmic,0.24465706944465637
+C:\hdr_perceptual\data\hdr_exr\Petroglyphs.exr,gamma,2.1266257762908936
+C:\hdr_perceptual\data\hdr_exr\Petroglyphs.exr,reinhard_local,0.2838386595249176
+C:\hdr_perceptual\data\hdr_exr\RIT Tiger.exr,reinhard,0.19681011140346527
+C:\hdr_perceptual\data\hdr_exr\RIT Tiger.exr,drago,0.23578566312789917
+C:\hdr_perceptual\data\hdr_exr\RIT Tiger.exr,filmic,0.3102283477783203
+C:\hdr_perceptual\data\hdr_exr\RIT Tiger.exr,gamma,1.4851137399673462
+C:\hdr_perceptual\data\hdr_exr\RIT Tiger.exr,reinhard_local,0.2404603660106659
+C:\hdr_perceptual\data\hdr_exr\Redwood Sunset.exr,reinhard,0.1548842191696167
+C:\hdr_perceptual\data\hdr_exr\Redwood Sunset.exr,drago,0.3187289834022522
+C:\hdr_perceptual\data\hdr_exr\Redwood Sunset.exr,filmic,0.1851968616247177
+C:\hdr_perceptual\data\hdr_exr\Redwood Sunset.exr,gamma,1.4899944067001343
+C:\hdr_perceptual\data\hdr_exr\Redwood Sunset.exr,reinhard_local,0.15694333612918854
+C:\hdr_perceptual\data\hdr_exr\Road's End Fire Damage.exr,reinhard,0.29192662239074707
+C:\hdr_perceptual\data\hdr_exr\Road's End Fire Damage.exr,drago,0.5648444294929504
+C:\hdr_perceptual\data\hdr_exr\Road's End Fire Damage.exr,filmic,0.804456889629364
+C:\hdr_perceptual\data\hdr_exr\Road's End Fire Damage.exr,gamma,1.690516471862793
+C:\hdr_perceptual\data\hdr_exr\Road's End Fire Damage.exr,reinhard_local,0.34337642788887024
+C:\hdr_perceptual\data\hdr_exr\Round Barn Inside.exr,reinhard,1.43351411819458
+C:\hdr_perceptual\data\hdr_exr\Round Barn Inside.exr,drago,0.7075973749160767
+C:\hdr_perceptual\data\hdr_exr\Round Barn Inside.exr,filmic,1.4424675703048706
+C:\hdr_perceptual\data\hdr_exr\Round Barn Inside.exr,gamma,0.6902036666870117
+C:\hdr_perceptual\data\hdr_exr\Round Barn Inside.exr,reinhard_local,1.4342390298843384
+C:\hdr_perceptual\data\hdr_exr\Round Stone Barn.exr,reinhard,0.6074730753898621
+C:\hdr_perceptual\data\hdr_exr\Round Stone Barn.exr,drago,0.04884129762649536
+C:\hdr_perceptual\data\hdr_exr\Round Stone Barn.exr,filmic,0.5379238128662109
+C:\hdr_perceptual\data\hdr_exr\Round Stone Barn.exr,gamma,1.1158324480056763
+C:\hdr_perceptual\data\hdr_exr\Round Stone Barn.exr,reinhard_local,0.43339067697525024
+C:\hdr_perceptual\data\hdr_exr\Route 66 Museum.exr,reinhard,0.290028840303421
+C:\hdr_perceptual\data\hdr_exr\Route 66 Museum.exr,drago,0.32675352692604065
+C:\hdr_perceptual\data\hdr_exr\Route 66 Museum.exr,filmic,0.4824405312538147
+C:\hdr_perceptual\data\hdr_exr\Route 66 Museum.exr,gamma,2.2669997215270996
+C:\hdr_perceptual\data\hdr_exr\Route 66 Museum.exr,reinhard_local,0.17894530296325684
+C:\hdr_perceptual\data\hdr_exr\Sequoia Remains.exr,reinhard,0.3363187313079834
+C:\hdr_perceptual\data\hdr_exr\Sequoia Remains.exr,drago,0.2512587904930115
+C:\hdr_perceptual\data\hdr_exr\Sequoia Remains.exr,filmic,0.23289814591407776
+C:\hdr_perceptual\data\hdr_exr\Sequoia Remains.exr,gamma,1.6926100254058838
+C:\hdr_perceptual\data\hdr_exr\Sequoia Remains.exr,reinhard_local,0.20880602300167084
+C:\hdr_perceptual\data\hdr_exr\Smoky Tunnel.exr,reinhard,0.40293365716934204
+C:\hdr_perceptual\data\hdr_exr\Smoky Tunnel.exr,drago,0.6165071725845337
+C:\hdr_perceptual\data\hdr_exr\Smoky Tunnel.exr,filmic,0.8605557680130005
+C:\hdr_perceptual\data\hdr_exr\Smoky Tunnel.exr,gamma,1.3160803318023682
+C:\hdr_perceptual\data\hdr_exr\Smoky Tunnel.exr,reinhard_local,0.4412105083465576
+C:\hdr_perceptual\data\hdr_exr\South Branch Kings River.exr,reinhard,0.4903297424316406
+C:\hdr_perceptual\data\hdr_exr\South Branch Kings River.exr,drago,0.7013477683067322
+C:\hdr_perceptual\data\hdr_exr\South Branch Kings River.exr,filmic,0.9918015003204346
+C:\hdr_perceptual\data\hdr_exr\South Branch Kings River.exr,gamma,1.2964110374450684
+C:\hdr_perceptual\data\hdr_exr\South Branch Kings River.exr,reinhard_local,0.5148875713348389
+C:\hdr_perceptual\data\hdr_exr\Sunset Point (1).exr,reinhard,0.32253336906433105
+C:\hdr_perceptual\data\hdr_exr\Sunset Point (1).exr,drago,0.014976108446717262
+C:\hdr_perceptual\data\hdr_exr\Sunset Point (1).exr,filmic,0.3434329926967621
+C:\hdr_perceptual\data\hdr_exr\Sunset Point (1).exr,gamma,1.3052769899368286
+C:\hdr_perceptual\data\hdr_exr\Sunset Point (1).exr,reinhard_local,0.21490192413330078
+C:\hdr_perceptual\data\hdr_exr\Sunset Point (2).exr,reinhard,0.41721946001052856
+C:\hdr_perceptual\data\hdr_exr\Sunset Point (2).exr,drago,0.08625296503305435
+C:\hdr_perceptual\data\hdr_exr\Sunset Point (2).exr,filmic,0.45599082112312317
+C:\hdr_perceptual\data\hdr_exr\Sunset Point (2).exr,gamma,1.5299530029296875
+C:\hdr_perceptual\data\hdr_exr\Sunset Point (2).exr,reinhard_local,0.29574310779571533
+C:\hdr_perceptual\data\hdr_exr\Taughannock Falls.exr,reinhard,0.6664742827415466
+C:\hdr_perceptual\data\hdr_exr\Taughannock Falls.exr,drago,0.3943856656551361
+C:\hdr_perceptual\data\hdr_exr\Taughannock Falls.exr,filmic,1.1220873594284058
+C:\hdr_perceptual\data\hdr_exr\Taughannock Falls.exr,gamma,0.8208298087120056
+C:\hdr_perceptual\data\hdr_exr\Taughannock Falls.exr,reinhard_local,0.7461039423942566
+C:\hdr_perceptual\data\hdr_exr\The Grotto.exr,reinhard,0.5256255269050598
+C:\hdr_perceptual\data\hdr_exr\The Grotto.exr,drago,0.1704896092414856
+C:\hdr_perceptual\data\hdr_exr\The Grotto.exr,filmic,0.2553481459617615
+C:\hdr_perceptual\data\hdr_exr\The Grotto.exr,gamma,2.02008318901062
+C:\hdr_perceptual\data\hdr_exr\The Grotto.exr,reinhard_local,0.3679138123989105
+C:\hdr_perceptual\data\hdr_exr\The Narrows (1).exr,reinhard,0.33465829491615295
+C:\hdr_perceptual\data\hdr_exr\The Narrows (1).exr,drago,0.4284277558326721
+C:\hdr_perceptual\data\hdr_exr\The Narrows (1).exr,filmic,0.41025733947753906
+C:\hdr_perceptual\data\hdr_exr\The Narrows (1).exr,gamma,2.149069309234619
+C:\hdr_perceptual\data\hdr_exr\The Narrows (1).exr,reinhard_local,0.19289083778858185
+C:\hdr_perceptual\data\hdr_exr\The Narrows (2).exr,reinhard,0.38615915179252625
+C:\hdr_perceptual\data\hdr_exr\The Narrows (2).exr,drago,0.2745358943939209
+C:\hdr_perceptual\data\hdr_exr\The Narrows (2).exr,filmic,0.3246074318885803
+C:\hdr_perceptual\data\hdr_exr\The Narrows (2).exr,gamma,2.03044056892395
+C:\hdr_perceptual\data\hdr_exr\The Narrows (2).exr,reinhard_local,0.22125683724880219
+C:\hdr_perceptual\data\hdr_exr\The Narrows (3).exr,reinhard,0.46749234199523926
+C:\hdr_perceptual\data\hdr_exr\The Narrows (3).exr,drago,0.16671541333198547
+C:\hdr_perceptual\data\hdr_exr\The Narrows (3).exr,filmic,0.3345053195953369
+C:\hdr_perceptual\data\hdr_exr\The Narrows (3).exr,gamma,1.890806794166565
+C:\hdr_perceptual\data\hdr_exr\The Narrows (3).exr,reinhard_local,0.27494728565216064
+C:\hdr_perceptual\data\hdr_exr\Tunnel View (1).exr,reinhard,0.35466790199279785
+C:\hdr_perceptual\data\hdr_exr\Tunnel View (1).exr,drago,0.2506779730319977
+C:\hdr_perceptual\data\hdr_exr\Tunnel View (1).exr,filmic,0.38018807768821716
+C:\hdr_perceptual\data\hdr_exr\Tunnel View (1).exr,gamma,2.259758472442627
+C:\hdr_perceptual\data\hdr_exr\Tunnel View (1).exr,reinhard_local,0.2268325537443161
+C:\hdr_perceptual\data\hdr_exr\Tunnel View (2).exr,reinhard,0.5414265990257263
+C:\hdr_perceptual\data\hdr_exr\Tunnel View (2).exr,drago,0.07062888890504837
+C:\hdr_perceptual\data\hdr_exr\Tunnel View (2).exr,filmic,0.3096804618835449
+C:\hdr_perceptual\data\hdr_exr\Tunnel View (2).exr,gamma,1.850656509399414
+C:\hdr_perceptual\data\hdr_exr\Tunnel View (2).exr,reinhard_local,0.35377898812294006
+C:\hdr_perceptual\data\hdr_exr\Tupper Lake (1).exr,reinhard,0.42304983735084534
+C:\hdr_perceptual\data\hdr_exr\Tupper Lake (1).exr,drago,0.18837380409240723
+C:\hdr_perceptual\data\hdr_exr\Tupper Lake (1).exr,filmic,1.158886194229126
+C:\hdr_perceptual\data\hdr_exr\Tupper Lake (1).exr,gamma,0.0
+C:\hdr_perceptual\data\hdr_exr\Tupper Lake (1).exr,reinhard_local,0.3279940187931061
+C:\hdr_perceptual\data\hdr_exr\Tupper Lake (2).exr,reinhard,0.7067768573760986
+C:\hdr_perceptual\data\hdr_exr\Tupper Lake (2).exr,drago,0.15705423057079315
+C:\hdr_perceptual\data\hdr_exr\Tupper Lake (2).exr,filmic,1.0299288034439087
+C:\hdr_perceptual\data\hdr_exr\Tupper Lake (2).exr,gamma,0.08220196515321732
+C:\hdr_perceptual\data\hdr_exr\Tupper Lake (2).exr,reinhard_local,0.4132145941257477
+C:\hdr_perceptual\data\hdr_exr\UR Chapel (1).exr,reinhard,1.2829829454421997
+C:\hdr_perceptual\data\hdr_exr\UR Chapel (1).exr,drago,1.0064380168914795
+C:\hdr_perceptual\data\hdr_exr\UR Chapel (1).exr,filmic,1.383147120475769
+C:\hdr_perceptual\data\hdr_exr\UR Chapel (1).exr,gamma,0.6555493474006653
+C:\hdr_perceptual\data\hdr_exr\UR Chapel (1).exr,reinhard_local,1.2789666652679443
+C:\hdr_perceptual\data\hdr_exr\UR Chapel (2).exr,reinhard,1.3478062152862549
+C:\hdr_perceptual\data\hdr_exr\UR Chapel (2).exr,drago,0.7775912284851074
+C:\hdr_perceptual\data\hdr_exr\UR Chapel (2).exr,filmic,1.4417136907577515
+C:\hdr_perceptual\data\hdr_exr\UR Chapel (2).exr,gamma,0.6698224544525146
+C:\hdr_perceptual\data\hdr_exr\UR Chapel (2).exr,reinhard_local,1.3409559726715088
+C:\hdr_perceptual\data\hdr_exr\Upheaval Dome.exr,reinhard,0.2811141610145569
+C:\hdr_perceptual\data\hdr_exr\Upheaval Dome.exr,drago,0.19548392295837402
+C:\hdr_perceptual\data\hdr_exr\Upheaval Dome.exr,filmic,0.6966008543968201
+C:\hdr_perceptual\data\hdr_exr\Upheaval Dome.exr,gamma,0.9373030066490173
+C:\hdr_perceptual\data\hdr_exr\Upheaval Dome.exr,reinhard_local,0.17685702443122864
+C:\hdr_perceptual\data\hdr_exr\Waffle House.exr,reinhard,1.2599971294403076
+C:\hdr_perceptual\data\hdr_exr\Waffle House.exr,drago,1.011031150817871
+C:\hdr_perceptual\data\hdr_exr\Waffle House.exr,filmic,1.3640574216842651
+C:\hdr_perceptual\data\hdr_exr\Waffle House.exr,gamma,0.502617359161377
+C:\hdr_perceptual\data\hdr_exr\Waffle House.exr,reinhard_local,1.2785342931747437
+C:\hdr_perceptual\data\hdr_exr\Wall Drug.exr,reinhard,0.379059761762619
+C:\hdr_perceptual\data\hdr_exr\Wall Drug.exr,drago,0.6012777090072632
+C:\hdr_perceptual\data\hdr_exr\Wall Drug.exr,filmic,0.720341682434082
+C:\hdr_perceptual\data\hdr_exr\Wall Drug.exr,gamma,1.2456035614013672
+C:\hdr_perceptual\data\hdr_exr\Wall Drug.exr,reinhard_local,0.43609803915023804
+C:\hdr_perceptual\data\hdr_exr\West Branch Ausable (1).exr,reinhard,0.24757321178913116
+C:\hdr_perceptual\data\hdr_exr\West Branch Ausable (1).exr,drago,0.5053725838661194
+C:\hdr_perceptual\data\hdr_exr\West Branch Ausable (1).exr,filmic,0.5222800970077515
+C:\hdr_perceptual\data\hdr_exr\West Branch Ausable (1).exr,gamma,1.7552436590194702
+C:\hdr_perceptual\data\hdr_exr\West Branch Ausable (1).exr,reinhard_local,0.2472972422838211
+C:\hdr_perceptual\data\hdr_exr\West Branch Ausable (2).exr,reinhard,0.2681325078010559
+C:\hdr_perceptual\data\hdr_exr\West Branch Ausable (2).exr,drago,0.5296924114227295
+C:\hdr_perceptual\data\hdr_exr\West Branch Ausable (2).exr,filmic,0.6165915131568909
+C:\hdr_perceptual\data\hdr_exr\West Branch Ausable (2).exr,gamma,1.601253867149353
+C:\hdr_perceptual\data\hdr_exr\West Branch Ausable (2).exr,reinhard_local,0.3439088761806488
+C:\hdr_perceptual\data\hdr_exr\Willy Desk.exr,reinhard,0.276585191488266
+C:\hdr_perceptual\data\hdr_exr\Willy Desk.exr,drago,0.3407168984413147
+C:\hdr_perceptual\data\hdr_exr\Willy Desk.exr,filmic,0.20749825239181519
+C:\hdr_perceptual\data\hdr_exr\Willy Desk.exr,gamma,1.4829514026641846
+C:\hdr_perceptual\data\hdr_exr\Willy Desk.exr,reinhard_local,0.18397316336631775
+C:\hdr_perceptual\data\hdr_exr\Willy Sentinel.exr,reinhard,0.38415589928627014
+C:\hdr_perceptual\data\hdr_exr\Willy Sentinel.exr,drago,0.08806873857975006
+C:\hdr_perceptual\data\hdr_exr\Willy Sentinel.exr,filmic,0.9743497967720032
+C:\hdr_perceptual\data\hdr_exr\Willy Sentinel.exr,gamma,0.705843448638916
+C:\hdr_perceptual\data\hdr_exr\Willy Sentinel.exr,reinhard_local,0.278839111328125
+C:\hdr_perceptual\data\hdr_exr\Yosemite Falls.exr,reinhard,0.34226492047309875
+C:\hdr_perceptual\data\hdr_exr\Yosemite Falls.exr,drago,0.5908567309379578
+C:\hdr_perceptual\data\hdr_exr\Yosemite Falls.exr,filmic,0.8585167527198792
+C:\hdr_perceptual\data\hdr_exr\Yosemite Falls.exr,gamma,1.4415521621704102
+C:\hdr_perceptual\data\hdr_exr\Yosemite Falls.exr,reinhard_local,0.42077332735061646
+C:\hdr_perceptual\data\hdr_exr\Zentrum.exr,reinhard,1.2252564430236816
+C:\hdr_perceptual\data\hdr_exr\Zentrum.exr,drago,0.6880437731742859
+C:\hdr_perceptual\data\hdr_exr\Zentrum.exr,filmic,0.9260230660438538
+C:\hdr_perceptual\data\hdr_exr\Zentrum.exr,gamma,0.546477198600769
+C:\hdr_perceptual\data\hdr_exr\Zentrum.exr,reinhard_local,1.2385008335113525

@@ -1,0 +1,11 @@
+Operator1,Operator2,p_value
+reinhard,drago,0.000420967809191726
+reinhard,filmic,0.00028109736051966285
+reinhard,gamma,1.5813338439522346e-18
+reinhard,reinhard_local,4.466115850154545e-18
+drago,filmic,0.1075047106539949
+drago,gamma,1.2502194855904539e-09
+drago,reinhard_local,6.958673612497052e-10
+filmic,gamma,5.6757676787845017e-11
+filmic,reinhard_local,5.054183742590397e-13
+gamma,reinhard_local,4.3186078950013858e-19
