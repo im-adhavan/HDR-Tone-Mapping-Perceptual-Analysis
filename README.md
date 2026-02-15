@@ -260,4 +260,6 @@ This framework demonstrates that HDR radiometric structure significantly influen
 
 Rather than treating tone mapping as a black-box heuristic, this work models it as a predictable function of scene geometry and provides a structured foundation for adaptive, scene-aware HDR compression systems.
 
+---
+
 Author: Adhavan Murugaiyan
